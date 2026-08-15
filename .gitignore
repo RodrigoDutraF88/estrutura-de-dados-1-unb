@@ -1,0 +1,18 @@
+# Binarios compilados
+main
+*.out
+*.exe
+a.out
+
+# Objetos e bibliotecas
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+
+# Debug
+*.dSYM/
+
+# Sistema
+.DS_Store
